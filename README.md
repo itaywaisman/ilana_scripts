@@ -10,3 +10,10 @@ Execute by running:
 Renames files by specific patterns. Execute:
 
 `python rename_files.py`
+
+
+## rename_images.py
+
+Rename image files to add the block type the name. Execute:
+
+`python rename_images.py [blockSymbol] [directory]`
